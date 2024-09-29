@@ -1,10 +1,10 @@
 [package]
-name = "raycast"
+name = "rustcast"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
 
 [[bin]]
-name = "raycast"
+name = "rustcast"
 path = "src/main.rs"
